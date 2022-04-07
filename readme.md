@@ -21,3 +21,7 @@ NB:
 I am using spot instances in this configuration because of the cost saving it provides.
 
 There is an IAM policy that I am curated for this cluster in order to give easy access/API calls to the EKS service and other services relevant to the cluster.
+
+
+#### Reference Repo (challenge):
+https://github.com/Plan-A-Technologies/DevOps-Challenge-Level-2.git
